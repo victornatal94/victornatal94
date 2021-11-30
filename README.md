@@ -5,7 +5,6 @@
 - 🌱 Pós graduando em análise de dados, Big Data e inteligência competitiva
 - 📈 Contador por formação, especialista em finanças e investimentos
 - 📫 E-mail: victornatal94@yahoo.com.br
-- 😄 Pronomes: Ele/Dele
 
 
 <div style="display: inline_block"><br>
