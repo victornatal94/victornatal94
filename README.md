@@ -1,6 +1,6 @@
 <h1 align="center">Olá!! Sou Victor Natal 👋</h1>
 
-- 🔭 Atualmente em busca de uma oportunidade **como cientista de dados**
+- 🔭 Atualmente em busca de uma oportunidade **como analista de dados**
 
 - 🌱 Pós graduando em **análise de dados, Big Data e inteligência competitiva**
 
