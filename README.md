@@ -1,10 +1,8 @@
 <h1 align="center">Olá!! Sou Victor Natal 👋</h1>
 
-- 🔭 Atualmente em busca de uma oportunidade **como analista de dados**
+- 🔭 Atualmente estou trabalhando como analista de dados e BI na MZ Group
 
 - 🌱 Pós graduando em **análise de dados, Big Data e inteligência competitiva**
-
-- 📝 Documento meus estudos no [https://medium.com/@victornatal94](https://medium.com/@victornatal94)
 
 - 📫 Você me acha através do e-mail: **victornatal94@yahoo.com.br**
 
