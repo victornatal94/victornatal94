@@ -1,6 +1,6 @@
 <h1 align="center">Olá!! Sou Victor Natal 👋</h1>
 
-- 🔭 Atualmente estou em busca de uma oportunidade na área de dados
+- 🔭 Atualmente estou trabalhando como Consultor de BI na Sys Manager.
 
 - 🌱 Pós graduado em **análise de dados, Big Data e inteligência competitiva**
 
